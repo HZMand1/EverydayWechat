@@ -22,7 +22,6 @@ def get_rtjokes_info():
             if content_dict['code'] == 1:
                 # 每次返回 10 条笑话信息，只取一次
                 return_text = content_dict['data'][0]['content']
-                # print(return_text)
                 return return_text
             else:
                 print(content_dict['msg'])
@@ -36,4 +35,4 @@ def get_rtjokes_info():
 get_one_words = get_rtjokes_info
 
 if __name__ == '__main__':
-    get_rtjokes_info()
+    print(get_rtjokes_info())

@@ -20,7 +20,7 @@ auto_reply_info:
 
   # 白名单，is_auto_reply_all: False 生效。此名单的用户才可自动回复。（填：文件传输助手，可回复自己，测试效果）
   auto_reply_white_list:
-    - '诗风'
+    - 'O-K-C'
     - '文件传输助手'
 
   # 黑名单，is_auto_reply_all:True 生效。此名单不会自动回复。
@@ -51,7 +51,7 @@ auto_reply_info:
 
   # 思知机器人 <https://www.ownthink.com/> 免费，如果只是简单使用 app_key 可不申请。
   ownthink_conf:
-    app_key: ''
+    app_key: 'd71faeeecfe2b1e1a745b7ed7bc53434'
 
   # 一个 Al (http://www.yige.ai/)（已长时间无人维护）
   yigeai_conf:

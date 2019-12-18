@@ -31,3 +31,5 @@ def get_wufazhuce_info():
 
 
 get_one_words = get_wufazhuce_info
+if __name__ == '__main__':
+    print(get_wufazhuce_info())

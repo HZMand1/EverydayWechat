@@ -9,21 +9,15 @@
 **本项目依赖于网页版微信进行开发，如登录不了，则无法使用此项目；且无任何解决办法。**    
 网页版微信地址：<https://wx.qq.com/>。  
 
-在北京地区求一份 Python & Android 的工作岗位。  
-加微信：[地址](https://raw.githubusercontent.com/sfyc23/image/master/vlog/20190614125724.png)。
+在广州地区求一份 Python & java 的工作岗位。  
 
 [版本更新日志](https://github.com/sfyc23/EverydayWechat/blob/master/hostory.md)
-
-最近搞了一个类似，但功能不一样的项目：[微信加群助手](https://github.com/sfyc23/WechatAddGroupHelper)。  
-欢迎大家 star。
 
 **禁止将本工具用于商业用途**，如产生法律纠纷与本人无关。  
 
 > 注意：如果给女朋友添加图灵机器人回复，请慎重考虑！！！！  
 并不是你的每一个女朋友都能接受，你用机器人给他回复『暖心话』，安慰她。人工智能也有可能是一个智障机器人。想想如果机器人回复给你女朋友：『我们分手吧』。可能你们真的就分手了。虽然我会在心里默默的点个赞（单身狗的自白）
 > 
-
- [![GitHub stars](https://img.shields.io/github/stars/sfyc23/EverydayWechat.svg?style=social)](https://github.com/sfyc23/EverydayWechat/stargazers)     [![GitHub forks](https://img.shields.io/github/forks/sfyc23/EverydayWechat.svg?style=social)](https://github.com/sfyc23/EverydayWechat/network/members)  `请点击页面顶部靠右 star 与 fork`  
 
 ## 功能说明
 
@@ -363,16 +357,6 @@ python run.py
 -  <https://github.com/likaixiang/EverydayWechat>   
 -  <https://github.com/0xHJK/music-dl>  
 
-
-## 微信交流群
-因为人数已超 100 人，请加 wx: **sfyc1314** 机器人为好友，验证信息写填写：「github」！！！，机器人会自动通过。  
-通过后回复：「加群」，会自动拉你入群。
-加群助手也已开源，地址：[https://github.com/sfyc23/WechatAddGroupHelper](https://github.com/sfyc23/WechatAddGroupHelper)，欢迎大家 star。  
-机器人二维码： 
-
-![微信交流群](https://raw.githubusercontent.com/sfyc23/image/master/vlog/20190614125724.png)
-
-
 ## 捐助
 如果您认为这个项目有帮助，不妨为它捐助一点钱？
 
@@ -382,7 +366,4 @@ python run.py
 
 捐助方法如下：
 
-![](http://vlog.sfyc23.xyz/wechat_everyday/donation_wechat.png?imageView2/0/w/300/h/300)![](http://vlog.sfyc23.xyz/wechat_everyday/donation_alipay.png?imageView2/0/w/300/h/300)
-
-## LICENSE
-[MIT License](https://github.com/sfyc23/EverydayWechat/blob/master/LICENSE)
+![](https://thumbnail0.baidupcs.com/thumbnail/b00c177429ea9bfcf4d19db2723027f8?fid=2906429674-250528-299069462941895&time=1576630800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lOybfP2or9jQFP5Ed65GvkaJKME%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8149654424233674282&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)

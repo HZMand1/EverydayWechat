@@ -19,11 +19,11 @@ def get_acib_info():
     """
     print('获取格言信息（双语）...')
     try:
-        resp = requests.get('http://open.iciba.com/dsapi')
+        resp = requests.get('https://api.ooopn.com/ciba/api.php?type=json')
         if resp.status_code == 200 and is_json(resp):
             content_dict = resp.json()
-            content = content_dict.get('content')
-            note = content_dict.get('note')
+            content = content_dict.get('ciba')
+            note = content_dict.get('ciba-en')
             return '{}{}'.format(content, note)
 
         print('没有获取到格言数据。')
@@ -33,3 +33,6 @@ def get_acib_info():
 
 
 get_one_words = get_acib_info
+
+if __name__ == '__main__':
+    print(get_acib_info())

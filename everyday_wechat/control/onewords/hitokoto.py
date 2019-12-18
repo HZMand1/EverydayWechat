@@ -26,3 +26,6 @@ def get_hitokoto_info():
 
 
 get_one_words = get_hitokoto_info
+
+if __name__ == '__main__':
+    print(get_hitokoto_info())
